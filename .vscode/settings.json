@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "./.vscode/python-wrapper.sh",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticMode": "workspace"
+}
